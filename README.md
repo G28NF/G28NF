@@ -11,9 +11,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas no IFRO**, com interesse em desenvolvimento **Back-end**.
-
-Busco uma oportunidade de **estágio ou desenvolvimento júnior**, onde possa aplicar meus conhecimentos, participar de projetos reais e continuar evoluindo profissionalmente.
+Estudante de **Análise e Desenvolvimento de Sistemas no IFRO**, com interesse em desenvolvimento de **Software**, busco uma oportunidade de **estágio ou desenvolvimento júnior**, onde possa aplicar meus conhecimentos, participar de projetos reais e continuar evoluindo profissionalmente.
 
 ---
 
