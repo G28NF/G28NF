@@ -81,6 +81,10 @@ Projeto pessoal desenvolvido para prática de **Programação Orientada a Objeto
   <img src="https://img.shields.io/badge/GitHub-3B82F6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/gabriel-nunes-ferreira-6a2515364">
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
 
 <br>
