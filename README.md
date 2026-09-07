@@ -1,4 +1,4 @@
-F<!-- HEADER -->
+<!-- HEADER -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:3B82F6,100:60A5FA&height=190&section=header&text=Gabriel%20Nunes%20Ferreira&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
