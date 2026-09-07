@@ -25,10 +25,11 @@ Experiência prática no desenvolvimento e manutenção de um sistema web instit
 
 Atuação com desenvolvimento de funcionalidades, banco de dados, integrações, testes, correções e manutenção do sistema.
 
-> 🔒 Repositório institucional privado.
+> 🔒 Repositório institucional privado.  
+> 📜 Autor registrado no **INPI** no Certificado de Registro de Programa de Computador do RIF — Processo `BR512026003957-6`.
 
 <a href="LINK_DO_CERTIFICADO">
-  <img src="https://img.shields.io/badge/Certificado_de_Participação-2563EB?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Registro_INPI-2563EB?style=for-the-badge&logo=files&logoColor=white"/>
 </a>
 
 ### 🐍 Lanchonete — Python
@@ -36,6 +37,10 @@ Atuação com desenvolvimento de funcionalidades, banco de dados, integrações,
 Projeto pessoal desenvolvido para prática de **Programação Orientada a Objetos**, aplicando classes, objetos, encapsulamento, composição e organização modular.
 
 `Python` • `POO` • `Git`
+
+<a href="LINK_DO_REPOSITORIO">
+  <img src="https://img.shields.io/badge/Ver_Projeto-3B82F6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
