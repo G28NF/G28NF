@@ -15,25 +15,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas no IFRO**, com interesse e
 
 ---
 
-## 💼 Experiência & Projetos
-
-### 🍽️ RIF — Gestão de Refeições do IFRO
-
-Atuação no desenvolvimento e manutenção do sistema **RIF**, desenvolvido no contexto do Calama-Devs / IFRO.
-
-`PHP` • `CodeIgniter 4` • `MySQL` • `APIs REST` • `MVC` • `Git` • `GitHub`
-
-Atuação com desenvolvimento de funcionalidades, banco de dados, integrações, testes, correções e manutenção do sistema.
-
-> 🔒 Repositório institucional privado.  
-> 📜 Um dos autores registrados no **INPI** no Certificado de Registro de Programa de Computador do RIF — Processo `BR512026003957-6`.
-
-<a href="./certificado_5120260039571781019047048.pdf">
-  <img src="https://img.shields.io/badge/Registro_INPI-2563EB?style=for-the-badge&logo=files&logoColor=white"/>
-</a>
-
----
-
 ## ⚙️ Tecnologias
 
 <div align="center">
