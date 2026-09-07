@@ -3,8 +3,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:3B82F6,100:60A5FA&height=190&section=header&text=Gabriel%20Nunes%20Ferreira&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvimento+Web;PHP+%7C+CodeIgniter+4+%7C+MySQL;Python+%7C+Programa%C3%A7%C3%A3o+Orientada+a+Objetos;Sempre+aprendendo+e+construindo+%F0%9F%9A%80" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;%E2%97%8F+Desenvolvimento+Web;PHP+%7C+CodeIgniter+4+%7C+MySQL;Python+%7C+Programa%C3%A7%C3%A3o+Orientada+a+Objetos;Sempre+aprendendo+e+construindo+%F0%9F%9A%80" 
+/>
 </div>
 
 ---
