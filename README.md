@@ -32,16 +32,6 @@ Atuação com desenvolvimento de funcionalidades, banco de dados, integrações,
   <img src="https://img.shields.io/badge/Registro_INPI-2563EB?style=for-the-badge&logo=files&logoColor=white"/>
 </a>
 
-### 🐍 Lanchonete — Python
-
-Projeto pessoal desenvolvido para prática de **Programação Orientada a Objetos**, aplicando classes, objetos, encapsulamento, composição e organização modular.
-
-`Python` • `POO` • `Git`
-
-<a href="https://github.com/G28NF/Lanchonete">
-  <img src="https://img.shields.io/badge/Ver_Projeto-3B82F6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 ---
 
 ## ⚙️ Tecnologias
