@@ -17,9 +17,9 @@ Estudante de **Análise e Desenvolvimento de Sistemas no IFRO**, com interesse e
 
 ## 💼 Experiência & Projetos
 
-### 🍽️ RIF — Calama-Devs / IFRO
+### 🍽️ RIF — Gestão de Refeições do IFRO
 
-Experiência prática no desenvolvimento e manutenção de um sistema web institucional do **IFRO**, como integrante do **Calama-Devs**.
+Atuação no desenvolvimento e manutenção do sistema **RIF**, desenvolvido no contexto do Calama-Devs / IFRO.
 
 `PHP` • `CodeIgniter 4` • `MySQL` • `APIs REST` • `MVC` • `Git` • `GitHub`
 
