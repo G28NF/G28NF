@@ -19,11 +19,17 @@ Estudante de **Análise e Desenvolvimento de Sistemas no IFRO**, com interesse e
 
 ### 🍽️ RIF — Calama-Devs / IFRO
 
-Experiência prática no desenvolvimento e manutenção de um sistema web utilizando:
+Experiência prática no desenvolvimento e manutenção de um sistema web institucional do **IFRO**, como integrante do **Calama-Devs**.
 
 `PHP` • `CodeIgniter 4` • `MySQL` • `APIs REST` • `MVC` • `Git` • `GitHub`
 
 Atuação com desenvolvimento de funcionalidades, banco de dados, integrações, testes, correções e manutenção do sistema.
+
+> 🔒 Repositório institucional privado.
+
+<a href="LINK_DO_CERTIFICADO">
+  <img src="https://img.shields.io/badge/Certificado_de_Participação-2563EB?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
 
 ### 🐍 Lanchonete — Python
 
