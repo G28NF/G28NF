@@ -26,9 +26,9 @@ Atuação no desenvolvimento e manutenção do sistema **RIF**, desenvolvido no 
 Atuação com desenvolvimento de funcionalidades, banco de dados, integrações, testes, correções e manutenção do sistema.
 
 > 🔒 Repositório institucional privado.  
-> 📜 Autor registrado no **INPI** no Certificado de Registro de Programa de Computador do RIF — Processo `BR512026003957-6`.
+> 📜 Um dos autores registrados no **INPI** no Certificado de Registro de Programa de Computador do RIF — Processo `BR512026003957-6`.
 
-<a href="LINK_DO_CERTIFICADO">
+<a href="./certificado_5120260039571781019047048.pdf">
   <img src="https://img.shields.io/badge/Registro_INPI-2563EB?style=for-the-badge&logo=files&logoColor=white"/>
 </a>
 
@@ -38,7 +38,7 @@ Projeto pessoal desenvolvido para prática de **Programação Orientada a Objeto
 
 `Python` • `POO` • `Git`
 
-<a href="LINK_DO_REPOSITORIO">
+<a href="https://github.com/G28NF/Lanchonete">
   <img src="https://img.shields.io/badge/Ver_Projeto-3B82F6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
